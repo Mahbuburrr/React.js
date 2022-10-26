@@ -1,0 +1,17 @@
+button{
+
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin-right: 10px;
+    font-size: 2rem;
+    width: 50px;
+    background-color: limegreen;
+  }
+  body{
+
+    background-color: #4c4c4c;
+    color: white;
+  }
+  

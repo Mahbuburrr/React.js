@@ -1,0 +1,16 @@
+.formGroup{
+
+    margin-bottom: 10px;
+}
+
+.display{
+
+    display: inline-block;
+    width: 300px;
+    background-color: aquamarine;
+    text-align: right ;
+}
+.center{
+
+    text-align: center;
+}
